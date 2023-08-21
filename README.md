@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**labeshbaral1/labeshbaral1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World! 👋
 
-Here are some ideas to get you started:
+I'm Labesh, a passionate Software Developer from New York. Welcome to my GitHub profile! Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Programming Languages:  Python, Rust, Java, Swift, C++, JavaScript, Typescript
+- Technologies: Node.js, React, Docker, Kubernetes, Redux, MongoDB, PostgreSQL
+
+
+## Connect with Me
+
+Feel free to connect with me on LinkedIn or drop me an email. Let's have a conversation and collaborate on exciting projects!
+
+[LinkedIn](www.linkedin.com/in/labesh-baral-0787a0204)
+
+
+Thanks for stopping by! 😄
+
