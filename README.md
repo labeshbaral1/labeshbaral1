@@ -13,7 +13,7 @@ I'm Labesh, a passionate Software Developer from New York. Welcome to my GitHub 
 
 Feel free to connect with me on LinkedIn or drop me an email. Let's have a conversation and collaborate on exciting projects!
 
-[LinkedIn](www.linkedin.com/in/labesh-baral-0787a0204)
+[LinkedIn](http://www.linkedin.com/in/labesh-baral-0787a0204)
 
 
 Thanks for stopping by! 😄
