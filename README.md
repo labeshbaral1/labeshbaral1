@@ -42,6 +42,11 @@ Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed v
 
   🔗 [Repository](https://github.com/labeshbaral1/lexi-fill?tab=readme-ov-file)
 
+#### **OrcaNet*  
+- A decentralized peer-to-peer networks in real time, featuring geographic node mapping, an integrated marketplace, cryptocurrency wallet and mining controls, and detailed network performance metrics. Built with JavaScript, TypeScript, CSS, and Go.
+  
+  🔗 [Repository](https://github.com/labeshbaral1/orcanet-desktop)
+
 #### **Expex-Personal Finance App**  
 - A personal finance platform that lets users securely monitor bank accounts, investments, and digital assets in one place.  
 Features budgeting tools, AI-powered financial advice, and recommendations to maximize savings and reduce recurring expenses.  
