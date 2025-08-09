@@ -12,7 +12,7 @@ Always exploring new ideas and building!
 ## Some Things I've Built  
 
 ### **Python**  
-####**news-extract API** 
+#### **news-extract API** 
 Real-time, serverless Python API that ingests and processes news from 90,000+ sources, using LLMs to extract and cluster employment-related events (e.g., layoffs, executive exits, restructures).  
 Built with AWS Lambda, EC2, OpenSearch, and Terraform, featuring multilingual full-text search and low-latency, on-demand querying.
   🔗 [Repository](https://github.com/tremor-fyi/news-extract)
