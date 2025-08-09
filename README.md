@@ -20,6 +20,11 @@ Implements custom game logic, memory management with malloc/free, and an undo fe
 Built with C and CMake, emphasizing pointers, structs, and efficient memory usage.
   🔗 [Repository](https://github.com/labeshbaral1/UpwardsGame?tab=readme-ov-file)
 
+#### **ArrayNet**  
+- C implementation of a fictional network protocol for transmitting arrays of 32-bit integers between hosts.  
+Features custom packet creation/parsing, checksum verification, data reconstruction from out-of-order packets, and dynamic packetization using bitwise operations and memory management.
+  🔗 [Repository](https://github.com/labeshbaral1/The-ArrayNet-Protocol)
+
 
 ### **Web-Apps**  
 
