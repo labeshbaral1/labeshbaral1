@@ -42,7 +42,7 @@ Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed v
 
   🔗 [Repository](https://github.com/labeshbaral1/lexi-fill?tab=readme-ov-file)
 
-#### **OrcaNet*  
+#### **OrcaNet**
 - A decentralized peer-to-peer networks in real time, featuring geographic node mapping, an integrated marketplace, cryptocurrency wallet and mining controls, and detailed network performance metrics. Built with JavaScript, TypeScript, CSS, and Go.
   
   🔗 [Repository](https://github.com/labeshbaral1/orcanet-desktop)
