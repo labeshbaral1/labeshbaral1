@@ -15,6 +15,7 @@ Always exploring new ideas and building!
 #### **news-extract API** 
 Real-time, serverless Python API that ingests and processes news from 90,000+ sources, using LLMs to extract and cluster employment-related events (e.g., layoffs, executive exits, restructures).  
 Built with AWS Lambda, EC2, OpenSearch, and Terraform, featuring multilingual full-text search and low-latency, on-demand querying.
+
   🔗 [Repository](https://github.com/tremor-fyi/news-extract)
 
 ---
@@ -23,11 +24,13 @@ Built with AWS Lambda, EC2, OpenSearch, and Terraform, featuring multilingual fu
 - C-based recreation of the classic word game focused on tile placement, stacking, and dynamic board expansion.  
 Implements custom game logic, memory management with malloc/free, and an undo feature using linked list history.  
 Built with C and CMake, emphasizing pointers, structs, and efficient memory usage.
+
   🔗 [Repository](https://github.com/labeshbaral1/UpwardsGame?tab=readme-ov-file)
 
 #### **ArrayNet**  
 - C implementation of a fictional network protocol for transmitting arrays of 32-bit integers between hosts.  
 Features custom packet creation/parsing, checksum verification, data reconstruction from out-of-order packets, and dynamic packetization using bitwise operations and memory management.
+
   🔗 [Repository](https://github.com/labeshbaral1/The-ArrayNet-Protocol)
 
 ---
@@ -36,6 +39,7 @@ Features custom packet creation/parsing, checksum verification, data reconstruct
 - A web application that lets users upload `.docx` legal templates, automatically detect dynamic placeholders, and fill them interactively through a **AI powered chatbot**.  
 Features include live document preview, AI-assisted placeholder filling, and support for multiple placeholder formats (`[Name]`, `{{Date}}`, `((Amount))`, etc.).  
 Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed via Vercel.
+
   🔗 [Repository](https://github.com/labeshbaral1/lexi-fill?tab=readme-ov-file)
 
 #### **Expex-Personal Finance App**  
@@ -49,6 +53,7 @@ Built with **React.js**, **Node.js**, **Express.js**, **Firebase**, **Redux Tool
 **ML-Based Crop Prediction**
 - IoT-powered system using Arduino, AWS Lambda, and machine learning to predict crop yields in under 3.5 seconds.  
 Trained a Random Forest Regressor on soil, climate, and satellite imagery data to achieve 86% accuracy, earning multiple ISEF awards.
+
   🔗 [Paper](https://docs.google.com/document/d/1m_W_2Xd8LUCGdW-F64pu6UrK3gVk3zOPa2tSJvfbSUM/edit?tab=t.0)
 
 
