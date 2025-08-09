@@ -1,20 +1,20 @@
-# Hi, I’m Labesh
+# Hey, I’m Labesh
 
 ## Bio  
 I’m a passionate Software Developer from New York who loves building impactful, user-focused applications.  
-Skilled in **Python, Rust, Java, Swift, C++, JavaScript, and TypeScript**, I enjoy working across the stack with technologies like **React, Node.js, Docker, Kubernetes, Redux, MongoDB, and PostgreSQL**.  
-Always exploring new ideas, I aim to create software that blends clean architecture, scalability, and great user experience.  
+Skilled in **Python, Java, C++, and TypeScript**, I enjoy working across the stack with technologies like **React, Node.js, Docker, Kubernetes, Redux, MongoDB, and PostgreSQL**.  
+Always exploring new ideas and building!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/labesh-baral-0787a0204)  
 
 ---
 
-## Projects  
+## Some Things I've Built  
 
 
 ## **Web-Apps**  
-### **Lexi-Fill**  
-A web application that lets users upload `.docx` legal templates, automatically detect dynamic placeholders, and fill them interactively through a **AI powered chatbot**.  
+#### **Lexi-Fill**  
+- A web application that lets users upload `.docx` legal templates, automatically detect dynamic placeholders, and fill them interactively through a **AI powered chatbot**.  
 Features include live document preview, AI-assisted placeholder filling, and support for multiple placeholder formats (`[Name]`, `{{Date}}`, `((Amount))`, etc.).  
 Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed via Vercel. 
 
