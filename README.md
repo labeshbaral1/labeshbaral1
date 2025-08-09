@@ -15,10 +15,9 @@ Always exploring new ideas and building!
 
 ### **C-Programming**  
 #### **Upwords-Game**  
-C-based recreation of the classic word game focused on tile placement, stacking, and dynamic board expansion.  
+- C-based recreation of the classic word game focused on tile placement, stacking, and dynamic board expansion.  
 Implements custom game logic, memory management with malloc/free, and an undo feature using linked list history.  
 Built with C and CMake, emphasizing pointers, structs, and efficient memory usage.
-
   🔗 [Repository](https://github.com/labeshbaral1/UpwardsGame?tab=readme-ov-file)
 
 
@@ -28,11 +27,11 @@ Built with C and CMake, emphasizing pointers, structs, and efficient memory usag
 #### **Lexi-Fill**  
 - A web application that lets users upload `.docx` legal templates, automatically detect dynamic placeholders, and fill them interactively through a **AI powered chatbot**.  
 Features include live document preview, AI-assisted placeholder filling, and support for multiple placeholder formats (`[Name]`, `{{Date}}`, `((Amount))`, etc.).  
-Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed via Vercel. 
+Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed via Vercel.
   🔗 [Repository](https://github.com/labeshbaral1/lexi-fill?tab=readme-ov-file)
 
 #### **Expex-Personal Finance App**  
-A personal finance platform that lets users securely monitor bank accounts, investments, and digital assets in one place.  
+- A personal finance platform that lets users securely monitor bank accounts, investments, and digital assets in one place.  
 Features budgeting tools, AI-powered financial advice, and recommendations to maximize savings and reduce recurring expenses.  
 Built with **React.js**, **Node.js**, **Express.js**, **Firebase**, **Redux Toolkit**, **Plaid API**, and **OpenAI API**.
   🔗 [Repository](https://github.com/labeshbaral1/expex)
