@@ -18,6 +18,7 @@ Always exploring new ideas and building!
 C-based recreation of the classic word game focused on tile placement, stacking, and dynamic board expansion.  
 Implements custom game logic, memory management with malloc/free, and an undo feature using linked list history.  
 Built with C and CMake, emphasizing pointers, structs, and efficient memory usage.
+
   🔗 [Repository](https://github.com/labeshbaral1/UpwardsGame?tab=readme-ov-file)
 
 
@@ -34,5 +35,5 @@ Tools: **React (Vite)**, **Node.js**, and **Python** (`python-docx`), deployed v
 A personal finance platform that lets users securely monitor bank accounts, investments, and digital assets in one place.  
 Features budgeting tools, AI-powered financial advice, and recommendations to maximize savings and reduce recurring expenses.  
 Built with **React.js**, **Node.js**, **Express.js**, **Firebase**, **Redux Toolkit**, **Plaid API**, and **OpenAI API**.
-  🔗 [Repository]([https://github.com/labeshbaral1/lexi-fill?tab=readme-ov-file](https://github.com/labeshbaral1/expex))
+  🔗 [Repository](https://github.com/labeshbaral1/expex)
 
