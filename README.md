@@ -44,3 +44,11 @@ Features budgeting tools, AI-powered financial advice, and recommendations to ma
 Built with **React.js**, **Node.js**, **Express.js**, **Firebase**, **Redux Toolkit**, **Plaid API**, and **OpenAI API**.
   🔗 [Repository](https://github.com/labeshbaral1/expex)
 
+---
+### **Research**  
+**ML-Based Crop Prediction**
+- IoT-powered system using Arduino, AWS Lambda, and machine learning to predict crop yields in under 3.5 seconds.  
+Trained a Random Forest Regressor on soil, climate, and satellite imagery data to achieve 86% accuracy, earning multiple ISEF awards.
+  🔗 [Paper](https://docs.google.com/document/d/1m_W_2Xd8LUCGdW-F64pu6UrK3gVk3zOPa2tSJvfbSUM/edit?tab=t.0)
+
+
