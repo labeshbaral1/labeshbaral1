@@ -12,7 +12,7 @@ Always exploring new ideas and building!
 ## Some Things I've Built  
 
 
-
+---
 ### **C-Programming**  
 #### **Upwords-Game**  
 - C-based recreation of the classic word game focused on tile placement, stacking, and dynamic board expansion.  
@@ -25,7 +25,7 @@ Built with C and CMake, emphasizing pointers, structs, and efficient memory usag
 Features custom packet creation/parsing, checksum verification, data reconstruction from out-of-order packets, and dynamic packetization using bitwise operations and memory management.
   🔗 [Repository](https://github.com/labeshbaral1/The-ArrayNet-Protocol)
 
-
+---
 ### **Web-Apps**  
 
 
